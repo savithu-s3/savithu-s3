@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - [Telegram🚀](https://t.me/savithu_s3)
 
-- [Discord😶](https://discord.com/uers/852854232435916800)
+- [Discord😶](https://discord.com/users/852854232435916800)
 
 ---
 >## ![](https://komarev.com/ghpvc/?username=savithu-s3&color=FF0000&style=for-the-badge&label=Github+Profile+Views)
