@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 <a href="https://t.me/savithu_s3"><img src="https://img.shields.io/static/v1?logo=telegram&label=&message=Telegram&color=36393f&style=flat-square" alt="Telegram"></a>
 </p>
 
+## Support🤝
+
 <p align="center">
 <a href='https://ko-fi.com/E1E5EWGHA' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </p>
