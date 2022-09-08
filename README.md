@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 <a href='https://ko-fi.com/E1E5EWGHA' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </p>
 
+---
+
 <p align="center">
 <img alt="Profile Views - Savithu_s3" src="https://komarev.com/ghpvc/?username=savithu-s3&color=red&style=for-the-badge&label=Github+Profile+Views"></img>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/savithu-s3?color=brightgreen&label=GITHUB%20FOLLOWERS&style=for-the-badge">
