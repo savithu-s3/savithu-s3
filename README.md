@@ -33,6 +33,22 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
+<img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=savithu-s3&no-frame=true&column=3&margin-w=15&margin-h=15&theme=nord"></img>
+</p>
+
+---
+
+<p align="center">
+<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=savithu-s3&show_icons=true&border_color=1a1a1a&text_color=ffffff&bg_color=1a1a1a&title_color=ff1100&icon_color=00ad0e"></img>
+<br>
+<img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savithu-s3&border_color=1a1a1a&text_color=ffffff&bg_color=1a1a1a&title_color=ff1100&icon_color=00ad0e&layout=compact&include_all_commits=true&count_private=true&langs_count=10&include_private=true"></img>
+<br>
+<img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com?user=savithu-s3&theme=dark&border=1a1a1a&background=1a1a1a&fire=FF0000&ring=09AA14&sideLabels=FFFFFF&dates=C2D805&sideNums=074EDD"></img>
+</p>
+
+---
+
+<p align="center">
 <img alt="Profile Views - Savithu_s3" src="https://komarev.com/ghpvc/?username=savithu-s3&color=red&style=for-the-badge&label=Github+Profile+Views"></img>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/savithu-s3?color=brightgreen&label=GITHUB%20FOLLOWERS&style=for-the-badge">
 </p>
